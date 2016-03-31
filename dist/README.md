@@ -9,9 +9,6 @@ A simple webpack boilerplate with hot loading and ES6
 	- JSX
 	- Marked (Markdown to HTML)
 	- ESLint
-	- React-JS
-	- React-Router
-	- Super Agent (for async requests)
 
 
 # Installation
@@ -28,5 +25,4 @@ A simple webpack boilerplate with hot loading and ES6
 
 	- npm start 			to start web-dev-server, then open a browser to http://localhost:8080
 	- npm run build 		for production
-	- npm run dist 			copies production files to dist
 	- npm run profile 		to generate states.json
